@@ -2,7 +2,7 @@
 
 **Web and game developer · Cyber security student** · codename *Operator: Foxxy*
 
-I build interactive web experiences, real-time WebGL graphics and small indie games, and I study cyber security. My site is a single page of full-screen slides, and every game on it is playable in the browser.
+I build interactive web experiences, real-time WebGL graphics and small indie games, I study cyber security, and I take photos around the city. My site is a single page of full-screen slides, and every game on it is playable in the browser.
 
 **Portfolio: [rubahanomali.vercel.app](https://rubahanomali.vercel.app)**
 
@@ -22,10 +22,14 @@ Each one is its own repository. You can play them all on the portfolio (a keyboa
 
 - [patchlint](https://github.com/RubahAnomali/patchlint) ([PyPI](https://pypi.org/project/patchlint/)): a beginner-friendly linter for Dockerfiles, GitHub Actions workflows and docker-compose files. Every finding explains why it matters and how to fix it.
 
+## Photography
+
+Night and street photography, plus skies: a selection is in the [Photography page](https://rubahanomali.vercel.app/#gallery) of the portfolio, and the rest is on [Instagram](https://www.instagram.com/almbakapuji/).
+
 ## Tools
 
 TypeScript · React · Vite · WebGL / Three.js · Python
 
 ## Contact
 
-[farrellfyelo@gmail.com](mailto:farrellfyelo@gmail.com) · [Instagram](https://www.instagram.com/prlpyl/)
+[farrellfyelo@gmail.com](mailto:farrellfyelo@gmail.com) · [Instagram](https://www.instagram.com/prlpyl/) · [Photography on Instagram](https://www.instagram.com/almbakapuji/)
