@@ -33,4 +33,4 @@ TypeScript · React · Vite · WebGL / Three.js · Unity / C# · Python
 
 ## Contact
 
-[farrellfyelo@gmail.com](mailto:farrellfyelo@gmail.com) · [Instagram](https://www.instagram.com/prlpyl/) · [Photography on Instagram](https://www.instagram.com/almbakapuji/)
+[rubahanomali@gmail.com](mailto:rubahanomali@gmail.com) · [Instagram](https://www.instagram.com/prlpyl/) · [Photography on Instagram](https://www.instagram.com/almbakapuji/)
