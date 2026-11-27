@@ -17,11 +17,11 @@ Each one is its own repository. You can play them all on the portfolio (a keyboa
 | [Kinetic Courier](https://github.com/RubahAnomali/kinetic-courier) · [play](https://rubahanomali.vercel.app/games/kinetic-courier/) | First-person grapple-hook time trial |
 | [Slingshot Salvage](https://github.com/RubahAnomali/slingshot-salvage) · [play](https://rubahanomali.vercel.app/games/slingshot-salvage/) | Orbital physics |
 | [Packet Ghost](https://github.com/RubahAnomali/packet-ghost) · [play](https://rubahanomali.vercel.app/games/packet-ghost/) | Real-time network stealth |
-| [Drowned Bell](https://github.com/RubahAnomali/drowned-bell) · [play](https://rubahanomali.vercel.app/games/drowned-bell/) | 2D soulslike made in Unity |
+| [Drowned Bell](https://github.com/RubahAnomali/drowned-bell) · [play](https://rubahanomali.vercel.app/games/drowned-bell/) | 2D soulslike made in Unity, four chapters and four bosses |
 
 ## Security
 
-- [patchlint](https://github.com/RubahAnomali/patchlint) ([PyPI](https://pypi.org/project/patchlint/)): a beginner-friendly linter for Dockerfiles, GitHub Actions workflows and docker-compose files. Every finding explains why it matters and how to fix it.
+- [patchlint](https://github.com/RubahAnomali/patchlint) ([PyPI](https://pypi.org/project/patchlint/)): a beginner-friendly linter for Dockerfiles, GitHub Actions workflows and docker-compose files. Every finding explains why it matters and how to fix it. It has 16 rules, outputs SARIF for GitHub code scanning, runs as a GitHub Action, and is open source: five outside contributors have added rules and features so far. Write-up: [3 GitHub Actions mistakes that let strangers run code in your CI](https://dev.to/rubahanomali/3-github-actions-mistakes-that-let-strangers-run-code-in-your-ci-and-a-small-linter-that-catches-5eab).
 
 ## Photography
 
