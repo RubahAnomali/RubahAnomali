@@ -17,7 +17,7 @@ Each one is its own repository. Five of them are playable on the portfolio (a ke
 | [Kinetic Courier](https://github.com/RubahAnomali/kinetic-courier) · [play](https://rubahanomali.vercel.app/games/kinetic-courier/) | First-person grapple-hook time trial |
 | [Slingshot Salvage](https://github.com/RubahAnomali/slingshot-salvage) · [play](https://rubahanomali.vercel.app/games/slingshot-salvage/) | Orbital physics |
 | [Packet Ghost](https://github.com/RubahAnomali/packet-ghost) · [play](https://rubahanomali.vercel.app/games/packet-ghost/) | Real-time network stealth |
-| [Drowned Bell](https://github.com/RubahAnomali/drowned-bell) · [play](https://rubahanomali.vercel.app/games/drowned-bell/) | 2D soulslike made in Unity, four chapters and four bosses |
+| [Drowned Bell](https://github.com/RubahAnomali/drowned-bell) | 2D soulslike made in Unity (Windows build), four chapters and four bosses |
 
 ## Security
 
