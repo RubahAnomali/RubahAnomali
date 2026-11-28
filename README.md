@@ -2,13 +2,13 @@
 
 **Web and game developer · Cyber security student** · codename *Operator: Foxxy*
 
-I build interactive web experiences, real-time WebGL graphics and small indie games, I study cyber security, and I take photos around the city. My site is a single page of full-screen slides, and every game on it is playable in the browser.
+I build interactive web experiences, real-time WebGL graphics and small indie games, I study cyber security, and I take photos around the city. My site is a single page of full-screen slides, and five of the games on it are playable in the browser.
 
 **Portfolio: [rubahanomali.vercel.app](https://rubahanomali.vercel.app)**
 
 ## Games
 
-Each one is its own repository. You can play them all on the portfolio (a keyboard is needed).
+Each one is its own repository. Five of them are playable on the portfolio (a keyboard is needed); Drowned Bell is a Unity game for Windows.
 
 | Game | What it is |
 | --- | --- |
